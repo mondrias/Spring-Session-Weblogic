@@ -1,1 +1,1 @@
-Spring Session
+Spring Session example project
